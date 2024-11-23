@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Ruge+Boogie&family=Sixtyfour+Convergence&display=swap');
+
+:root{
+    --primary-color:#bc6c25;
+    --secondary-color: #4d3822;
+    --hover-color: #e76f51;
+    --section-color: #b78752;
+    
+}
+
+*{
+    font-family: "Plus Jakarta Sans", serif;
+}
+
+.navbar .container{
+    background-color: rgba(0, 0, 0,0.7);
+    font-weight: bold;
+
+}
+
+.nav-link{
+    color: white !important;
+    font-size: 1.3rem;
+}
+.nav-link:hover{
+    color:var(--primary-color) !important;
+}
+#formular button {
+    color: white !important;
+    /* font-size: 1.3rem; */
+    border-color:var(--primary-color);
+    
+}
+
+#formular button:hover{
+    background-color: var(--primary-color);
+}
+#formular input{
+    background-color:var(--primary-color);
+    border: none ;
+}
+#formular input::placeholder{
+    color: white;
+}
+
