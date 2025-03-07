@@ -10,14 +10,23 @@
 
 *{
     font-family: "Plus Jakarta Sans", serif;
+
 }
 
-.navbar .container{
+.navbar .container-fluid{
     background-color: rgba(0, 0, 0,0.7);
     font-weight: bold;
 
 }
-
+.container-fluid {
+    padding-left: 0 !important; /* Container'ın solundaki boşluğu kaldırır */
+    padding-right: 0 !important; /* Container'ın sağındaki boşluğu kaldırır */
+}
+.navbar {
+    margin-bottom: 0 !important; /* Navbar'ın altındaki boşluğu kaldırır */
+    padding-top: 0 !important; /* Navbar'ın üstündeki boşluğu kaldırır */
+    padding-bottom: 0 !important; /* Navbar'ın altındaki boşluğu kaldırır */
+}
 .nav-link{
     color: white !important;
     font-size: 1.3rem;
