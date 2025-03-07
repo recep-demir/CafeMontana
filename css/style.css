@@ -10,6 +10,7 @@
 
 *{
     font-family: "Plus Jakarta Sans", serif;
+    
 
 }
 
@@ -18,10 +19,7 @@
     font-weight: bold;
 
 }
-.container-fluid {
-    padding-left: 0 !important; /* Container'ın solundaki boşluğu kaldırır */
-    padding-right: 0 !important; /* Container'ın sağındaki boşluğu kaldırır */
-}
+
 .navbar {
     margin-bottom: 0 !important; /* Navbar'ın altındaki boşluğu kaldırır */
     padding-top: 0 !important; /* Navbar'ın üstündeki boşluğu kaldırır */
@@ -34,6 +32,7 @@
 .nav-link:hover{
     color:var(--primary-color) !important;
 }
+
 #formular button {
     color: white !important;
     /* font-size: 1.3rem; */
