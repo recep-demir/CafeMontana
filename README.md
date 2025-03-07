@@ -1,6 +1,10 @@
 # Cafe Montana Website
 
 This is a website for Cafe Montana, built using HTML, CSS, and Bootstrap 5. It features a responsive design, a carousel slider, menu sections, team member profiles, and a contact form with a Google Maps integration.
+
+## Live Demo
+A live demo of the project is available at: [Live Demo](https://cafemontana.netlify.app/)
+
 ![App Screenshot](./img/image.png)
 
 ## Features
