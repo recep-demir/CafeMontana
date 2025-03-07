@@ -45,41 +45,28 @@ To run this project locally, follow these steps:
 
 ## File Structure
 cafe-montana/
+├── index.html
 ├── css/
 │   └── style.css
 ├── img/
 │   ├── about.jpg
-│   ├── coffee-cup.png
 │   ├── slider1.jpg
 │   ├── slider2.jpg
 │   ├── slider3.jpg
 │   ├── menu/
 │   │   ├── coffee/
-│   │   │   ├── 1_dalgona.webp
-│   │   │   ├── 2_turkısh.webp
-│   │   │   ├── 3_latte.webp
-│   │   │   └── 4_magic.webp
-│   │   ├── dessert/
-│   │   │   ├── 1_corn-cake.webp
-│   │   │   ├── 2_gigerbread.webp
-│   │   │   ├── 3_Grape_almond.webp
-│   │   │   └── 4_LemonMeringue.webp
 │   │   ├── food/
-│   │   │   ├── 1_steak.webp
-│   │   │   ├── 2_italian.webp
-│   │   │   ├── 3_summer-squash-pizza.webp
-│   │   │   └── 4_peanut-butter.webp
-│   ├── team/
-│   │   ├── our-team-1.jpg
-│   │   ├── our-team-2.jpg
-│   │   ├── our-team-3.jpg
-│   │   ├── our-team-4.jpg
-│   │   ├── our-team-5.jpg
-│   │   └── our-team-6.jpg
-├── lib/
-│   └── fslightbox.js
-├── index.html
-└── README.md
+│   │   └── dessert/
+│   └── team/
+│       ├── our-team-1.jpg
+│       ├── our-team-2.jpg
+│       ├── our-team-3.jpg
+│       ├── our-team-4.jpg
+│       ├── our-team-5.jpg
+│       └── our-team-6.jpg
+├── README.md
+└── lib/
+    └── fslightbox.js
 
 ## Usage
 
