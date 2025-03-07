@@ -44,6 +44,8 @@ To run this project locally, follow these steps:
 3.  **Open `index.html` in your web browser.**
 
 ## File Structure
+
+```
 cafe-montana/
 ├── index.html
 ├── css/
@@ -67,6 +69,8 @@ cafe-montana/
 ├── README.md
 └── lib/
     └── fslightbox.js
+
+```
 
 ## Usage
 
